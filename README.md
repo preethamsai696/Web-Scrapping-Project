@@ -33,7 +33,7 @@ Versions of each packege used was stored in requirements.txt file.
 
 
 ## Result
-The engineering proffesors firstname, lastname, title, homepage, phone number and office were extracted from the above mentioned website url.
+The engineering professors firstname, lastname, title, homepage, phone number and office were extracted from the above mentioned website url.
 The obtained result is as follows,
 
 |    | firstname | lastname      | title               | homepage                                                         | phone_number | office    |
